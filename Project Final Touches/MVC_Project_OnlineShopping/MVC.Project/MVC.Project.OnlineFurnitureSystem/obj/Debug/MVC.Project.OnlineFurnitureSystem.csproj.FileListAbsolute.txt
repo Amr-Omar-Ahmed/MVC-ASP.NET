@@ -1,0 +1,409 @@
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\ApplicationInsights.config
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.dll.config
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.pdb
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Antlr3.Runtime.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.DependencyCollector.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Web.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.WindowsServer.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.ApplicationInsights.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Newtonsoft.Json.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Helpers.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Mvc.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Optimization.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Razor.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Deployment.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Razor.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\WebGrease.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Helpers.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Mvc.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Optimization.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Razor.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Deployment.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Razor.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Antlr3.Runtime.pdb
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Newtonsoft.Json.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.ApplicationInsights.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.DependencyCollector.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.WindowsServer.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Web.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csprojResolveAssemblyReference.cache
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csproj.CoreCompileInputs.cache
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.pdb
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.SqlServer.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.SqlServer.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.Mvc.dll
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.xml
+E:\ITI\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.Mvc.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\ApplicationInsights.config
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.dll.config
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.pdb
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Antlr3.Runtime.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.SqlServer.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.DependencyCollector.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Web.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.WindowsServer.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.ApplicationInsights.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Newtonsoft.Json.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.Mvc.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Helpers.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Mvc.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Optimization.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Razor.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Deployment.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Razor.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\WebGrease.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.SqlServer.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.Mvc.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Helpers.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Mvc.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Optimization.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Razor.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Deployment.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Razor.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Antlr3.Runtime.pdb
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Newtonsoft.Json.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.ApplicationInsights.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.DependencyCollector.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.WindowsServer.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Web.xml
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csprojResolveAssemblyReference.cache
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csproj.CoreCompileInputs.cache
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.dll
+E:\ITI\BackUp\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.pdb
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\ApplicationInsights.config
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.dll.config
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.pdb
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Antlr3.Runtime.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.SqlServer.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.DependencyCollector.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Web.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.WindowsServer.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.ApplicationInsights.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Newtonsoft.Json.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.Mvc.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Helpers.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Mvc.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Optimization.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Razor.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Deployment.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Razor.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\WebGrease.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.SqlServer.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.Mvc.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Helpers.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Mvc.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Optimization.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Razor.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Deployment.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Razor.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Antlr3.Runtime.pdb
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Newtonsoft.Json.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.ApplicationInsights.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.DependencyCollector.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.WindowsServer.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Web.xml
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csprojResolveAssemblyReference.cache
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csproj.CoreCompileInputs.cache
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.dll
+E:\ITI\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.pdb
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\ApplicationInsights.config
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.dll.config
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.pdb
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Antlr3.Runtime.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.SqlServer.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.DependencyCollector.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Web.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.WindowsServer.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.ApplicationInsights.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Newtonsoft.Json.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.Mvc.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Helpers.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Mvc.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Optimization.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Razor.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Deployment.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Razor.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\WebGrease.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.SqlServer.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.Mvc.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Helpers.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Mvc.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Optimization.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Razor.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Deployment.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Razor.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Antlr3.Runtime.pdb
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Newtonsoft.Json.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.ApplicationInsights.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.DependencyCollector.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.WindowsServer.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Web.xml
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csprojResolveAssemblyReference.cache
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csproj.CoreCompileInputs.cache
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.dll
+E:\ITI\BackUp\test3\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.pdb
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\ApplicationInsights.config
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.dll.config
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.pdb
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Antlr3.Runtime.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.SqlServer.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.DependencyCollector.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Web.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.WindowsServer.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.ApplicationInsights.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Newtonsoft.Json.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.Mvc.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Helpers.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Mvc.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Optimization.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Razor.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Deployment.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Razor.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\WebGrease.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.SqlServer.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.Mvc.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Helpers.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Mvc.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Optimization.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Razor.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Deployment.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Razor.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Antlr3.Runtime.pdb
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Newtonsoft.Json.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.ApplicationInsights.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.DependencyCollector.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.WindowsServer.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Web.xml
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csprojResolveAssemblyReference.cache
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csproj.CoreCompileInputs.cache
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.dll
+E:\ITI\Project Design Test\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.pdb
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\ApplicationInsights.config
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.dll.config
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.pdb
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Antlr3.Runtime.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.SqlServer.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\GridMvc.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.DependencyCollector.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Web.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.WindowsServer.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.ApplicationInsights.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Newtonsoft.Json.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.Mvc.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Helpers.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Mvc.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Optimization.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Razor.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Deployment.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Razor.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\WebGrease.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.SqlServer.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.Mvc.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Helpers.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Mvc.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Optimization.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Razor.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Deployment.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Razor.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Antlr3.Runtime.pdb
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Newtonsoft.Json.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.ApplicationInsights.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.DependencyCollector.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.WindowsServer.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Web.xml
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csproj.CoreCompileInputs.cache
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.dll
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.pdb
+E:\ITI\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csprojResolveAssemblyReference.cache
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\ApplicationInsights.config
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.dll.config
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.pdb
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Antlr3.Runtime.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.SqlServer.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\GridMvc.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.DependencyCollector.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Web.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.WindowsServer.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.ApplicationInsights.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Newtonsoft.Json.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.Mvc.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Helpers.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Mvc.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Optimization.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Razor.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Deployment.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Razor.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\WebGrease.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.SqlServer.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.Mvc.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Helpers.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Mvc.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Optimization.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Razor.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Deployment.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Razor.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Antlr3.Runtime.pdb
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Newtonsoft.Json.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.ApplicationInsights.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.DependencyCollector.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.WindowsServer.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Web.xml
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.Migrations.InitialCreate.resources
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.Migrations.InitialCreate1.resources
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csproj.GenerateResource.Cache
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csproj.CoreCompileInputs.cache
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.dll
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.pdb
+E:\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csprojResolveAssemblyReference.cache
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\ApplicationInsights.config
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.dll.config
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\MVC.Project.OnlineFurnitureSystem.pdb
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Antlr3.Runtime.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.SqlServer.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\GridMvc.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.DependencyCollector.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Web.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.WindowsServer.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.ApplicationInsights.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Newtonsoft.Json.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.Mvc.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Helpers.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Mvc.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Optimization.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Razor.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Deployment.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Razor.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\WebGrease.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\EntityFramework.SqlServer.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\PagedList.Mvc.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Helpers.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Mvc.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Optimization.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.Razor.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Deployment.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\System.Web.WebPages.Razor.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Antlr3.Runtime.pdb
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Newtonsoft.Json.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.ApplicationInsights.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.DependencyCollector.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.WindowsServer.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\bin\Microsoft.AI.Web.xml
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csprojResolveAssemblyReference.cache
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.Migrations.InitialCreate.resources
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.Migrations.InitialCreate1.resources
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csproj.GenerateResource.Cache
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.csproj.CoreCompileInputs.cache
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.dll
+E:\ITI\MVC\Project Final Touches\MVC_Project_OnlineShopping\MVC.Project\MVC.Project.OnlineFurnitureSystem\obj\Debug\MVC.Project.OnlineFurnitureSystem.pdb

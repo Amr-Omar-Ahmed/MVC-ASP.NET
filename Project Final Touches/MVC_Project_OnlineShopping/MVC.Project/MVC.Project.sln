@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.Project.OnlineFurnitureSystem", "MVC.Project.OnlineFurnitureSystem\MVC.Project.OnlineFurnitureSystem.csproj", "{B48ACABF-D95C-4F91-B64C-B7DC777DE3E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B48ACABF-D95C-4F91-B64C-B7DC777DE3E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48ACABF-D95C-4F91-B64C-B7DC777DE3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48ACABF-D95C-4F91-B64C-B7DC777DE3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48ACABF-D95C-4F91-B64C-B7DC777DE3E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7143E992-0EDA-4CBB-9848-DB1E60083B94}
+	EndGlobalSection
+EndGlobal
