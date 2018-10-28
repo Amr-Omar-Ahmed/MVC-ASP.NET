@@ -1,4 +1,4 @@
-# MVC-ASP.NET
+# MVC-ASP.NET (made for learning purposes)
 ********************
 How to Use It:
 Create a database OnlineShoppingFurnitur in sql server and restore the back up "OnlineShoppingFurnitur.BAK".
